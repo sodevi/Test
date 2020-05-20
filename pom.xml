@@ -39,6 +39,6 @@
 
 	
   <build>
-    <finalName>devops</finalName>
+    <finalName>devops-test</finalName>
   </build>
 </project>
